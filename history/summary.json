@@ -28,7 +28,7 @@
     "url": "$SECRET_SITE_1",
     "slug": "teknisk-dokumentation",
     "status": "down",
-    "uptime": "11.28%",
+    "uptime": "7.79%",
     "time": 0
   },
   {
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE_2",
     "slug": "aerendehantering",
     "status": "down",
-    "uptime": "15.69%",
+    "uptime": "9.90%",
     "time": 0
   }
 ]
