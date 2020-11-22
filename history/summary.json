@@ -5,7 +5,7 @@
     "slug": "devinix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1958
+    "time": 2129
   },
   {
     "name": "Devinix Cloud",
@@ -13,30 +13,14 @@
     "slug": "devinix-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 959
+    "time": 918
   },
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Microsoft 365",
+    "url": "https://outlook.office.com/owa/",
+    "slug": "microsoft-365",
     "status": "up",
     "uptime": "100.00%",
-    "time": 40
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 63
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 309
+    "time": 209
   }
 ]
