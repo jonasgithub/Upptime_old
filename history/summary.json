@@ -27,16 +27,16 @@
     "name": "Teknisk Dokumentation",
     "url": "$SECRET_SITE_1",
     "slug": "teknisk-dokumentation",
-    "status": "down",
-    "uptime": "7.79%",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 322
   },
   {
     "name": "Ärendehantering",
     "url": "$SECRET_SITE_2",
     "slug": "aerendehantering",
-    "status": "down",
-    "uptime": "9.90%",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 166
   }
 ]
