@@ -8,12 +8,12 @@ sites:
     url: https://www.devinix.se
   - name: Devinix Cloud
     url: https://dvx.cloud
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Microsoft 365
+    url: https://outlook.office.com/owa/
+#  - name: Wikipedia
+#    url: https://en.wikipedia.org
+#  - name: Hacker News
+#    url: https://news.ycombinator.com
 #  - name: Broken Site
 #    url: https://thissitedoesnotexist.com
 #  - name: Secret Site
