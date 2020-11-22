@@ -5,7 +5,7 @@
     "slug": "devinix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2129
+    "time": 1926
   },
   {
     "name": "Devinix Cloud",
@@ -13,7 +13,7 @@
     "slug": "devinix-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 918
+    "time": 958
   },
   {
     "name": "Microsoft 365",
@@ -21,6 +21,14 @@
     "slug": "microsoft-365",
     "status": "up",
     "uptime": "100.00%",
-    "time": 209
+    "time": 199
+  },
+  {
+    "name": "Broken Site",
+    "url": "https://thissitedoesnotexist.com",
+    "slug": "broken-site",
+    "status": "down",
+    "uptime": "100.00%",
+    "time": 0
   }
 ]
