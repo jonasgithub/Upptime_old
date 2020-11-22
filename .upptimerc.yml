@@ -14,8 +14,8 @@ sites:
 #    url: https://en.wikipedia.org
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
-#  - name: Broken Site
-#    url: https://thissitedoesnotexist.com
+  - name: Broken Site
+    url: https://thissitedoesnotexist.com
 #  - name: Secret Site
 #    url: $SECRET_SITE
 
@@ -36,3 +36,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+notifications:
+  - type: discord
