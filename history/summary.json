@@ -5,7 +5,7 @@
     "slug": "devinix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1839
+    "time": 1808
   },
   {
     "name": "Devinix Cloud",
@@ -13,7 +13,7 @@
     "slug": "devinix-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 947
+    "time": 965
   },
   {
     "name": "Microsoft 365",
@@ -21,7 +21,7 @@
     "slug": "microsoft-365",
     "status": "up",
     "uptime": "100.00%",
-    "time": 191
+    "time": 194
   },
   {
     "name": "Teknisk Dokumentation",
@@ -29,14 +29,14 @@
     "slug": "teknisk-dokumentation",
     "status": "up",
     "uptime": "100.00%",
-    "time": 496
+    "time": 576
   },
   {
-    "name": "Ärendehantering",
+    "name": "Arendehantering",
     "url": "$SECRET_SITE_2",
-    "slug": "aerendehantering",
+    "slug": "arendehantering",
     "status": "up",
     "uptime": "100.00%",
-    "time": 303
+    "time": 554
   }
 ]
