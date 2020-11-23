@@ -18,7 +18,7 @@ sites:
 #    url: https://thissitedoesnotexist.com
   - name: Teknisk Dokumentation
     url: $SECRET_SITE_1
-  - name: &Auml;rendehantering
+  - name: Arendehantering
     url: $SECRET_SITE_2
 
 status-website:
