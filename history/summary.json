@@ -35,8 +35,8 @@
     "name": "Arendehantering",
     "url": "$SECRET_SITE_2",
     "slug": "arendehantering",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 457
+    "time": 6142
   }
 ]
