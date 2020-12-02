@@ -5,7 +5,7 @@
     "slug": "devinix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1698
+    "time": 1676
   },
   {
     "name": "Devinix Cloud",
@@ -13,7 +13,7 @@
     "slug": "devinix-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1031
+    "time": 1034
   },
   {
     "name": "Microsoft 365",
@@ -29,7 +29,7 @@
     "slug": "teknisk-dokumentation",
     "status": "up",
     "uptime": "100.00%",
-    "time": 696
+    "time": 706
   },
   {
     "name": "Arendehantering",
@@ -37,6 +37,6 @@
     "slug": "arendehantering",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2617
+    "time": 2455
   }
 ]
