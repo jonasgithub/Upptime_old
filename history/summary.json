@@ -5,7 +5,15 @@
     "slug": "devinix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1676
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1653,
+    "timeDay": 1277,
+    "timeWeek": 1551,
+    "timeMonth": 1653,
+    "timeYear": 1653
   },
   {
     "name": "Devinix Cloud",
@@ -13,7 +21,15 @@
     "slug": "devinix-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1034
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1038,
+    "timeDay": 1102,
+    "timeWeek": 1105,
+    "timeMonth": 1038,
+    "timeYear": 1038
   },
   {
     "name": "Microsoft 365",
@@ -21,7 +37,15 @@
     "slug": "microsoft-365",
     "status": "up",
     "uptime": "100.00%",
-    "time": 220
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 219,
+    "timeDay": 202,
+    "timeWeek": 237,
+    "timeMonth": 219,
+    "timeYear": 219
   },
   {
     "name": "Teknisk Dokumentation",
@@ -29,7 +53,15 @@
     "slug": "teknisk-dokumentation",
     "status": "up",
     "uptime": "100.00%",
-    "time": 706
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 766,
+    "timeDay": 776,
+    "timeWeek": 776,
+    "timeMonth": 766,
+    "timeYear": 766
   },
   {
     "name": "Arendehantering",
@@ -37,6 +69,14 @@
     "slug": "arendehantering",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2455
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2302,
+    "timeDay": 458,
+    "timeWeek": 671,
+    "timeMonth": 2302,
+    "timeYear": 2302
   }
 ]
