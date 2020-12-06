@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1617,
-    "timeDay": 1336,
-    "timeWeek": 1407,
-    "timeMonth": 1617,
-    "timeYear": 1617
+    "time": 1609,
+    "timeDay": 1449,
+    "timeWeek": 1374,
+    "timeMonth": 1609,
+    "timeYear": 1609
   },
   {
     "name": "Devinix Cloud",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 1003,
-    "timeWeek": 1110,
-    "timeMonth": 1041,
-    "timeYear": 1041
+    "time": 1026,
+    "timeDay": 735,
+    "timeWeek": 1033,
+    "timeMonth": 1026,
+    "timeYear": 1026
   },
   {
     "name": "Microsoft 365",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 355,
-    "timeWeek": 244,
-    "timeMonth": 231,
-    "timeYear": 231
+    "time": 229,
+    "timeDay": 203,
+    "timeWeek": 227,
+    "timeMonth": 229,
+    "timeYear": 229
   },
   {
     "name": "Teknisk Dokumentation",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 753,
-    "timeDay": 668,
-    "timeWeek": 755,
-    "timeMonth": 753,
-    "timeYear": 753
+    "time": 750,
+    "timeDay": 707,
+    "timeWeek": 746,
+    "timeMonth": 750,
+    "timeYear": 750
   },
   {
     "name": "Arendehantering",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2038,
-    "timeDay": 438,
-    "timeWeek": 362,
-    "timeMonth": 2038,
-    "timeYear": 2038
+    "time": 1924,
+    "timeDay": 205,
+    "timeWeek": 353,
+    "timeMonth": 1924,
+    "timeYear": 1924
   }
 ]
