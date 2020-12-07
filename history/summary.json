@@ -2,6 +2,7 @@
   {
     "name": "Devinix",
     "url": "https://www.devinix.se",
+    "icon": "https://favicons.githubusercontent.com/www.devinix.se",
     "slug": "devinix",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1609,
-    "timeDay": 1449,
-    "timeWeek": 1374,
-    "timeMonth": 1609,
-    "timeYear": 1609
+    "time": 1599,
+    "timeDay": 1399,
+    "timeWeek": 1365,
+    "timeMonth": 1599,
+    "timeYear": 1599,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Devinix Cloud",
     "url": "https://dvx.cloud",
+    "icon": "https://favicons.githubusercontent.com/dvx.cloud",
     "slug": "devinix-cloud",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1026,
-    "timeDay": 735,
-    "timeWeek": 1033,
-    "timeMonth": 1026,
-    "timeYear": 1026
+    "time": 1037,
+    "timeDay": 1263,
+    "timeWeek": 1094,
+    "timeMonth": 1037,
+    "timeYear": 1037,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Microsoft 365",
     "url": "https://outlook.office.com/owa/",
+    "icon": "https://favicons.githubusercontent.com/outlook.office.com",
     "slug": "microsoft-365",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 203,
-    "timeWeek": 227,
-    "timeMonth": 229,
-    "timeYear": 229
+    "time": 226,
+    "timeDay": 164,
+    "timeWeek": 229,
+    "timeMonth": 226,
+    "timeYear": 226,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Teknisk Dokumentation",
     "url": "$SECRET_SITE_1",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teknisk-dokumentation",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +64,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 707,
-    "timeWeek": 746,
-    "timeMonth": 750,
-    "timeYear": 750
+    "time": 779,
+    "timeDay": 1243,
+    "timeWeek": 817,
+    "timeMonth": 779,
+    "timeYear": 779,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arendehantering",
     "url": "$SECRET_SITE_2",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "arendehantering",
     "status": "up",
     "uptime": "100.00%",
@@ -73,10 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1924,
-    "timeDay": 205,
-    "timeWeek": 353,
-    "timeMonth": 1924,
-    "timeYear": 1924
+    "time": 1833,
+    "timeDay": 383,
+    "timeWeek": 391,
+    "timeMonth": 1833,
+    "timeYear": 1833,
+    "dailyMinutesDown": {}
   }
 ]
